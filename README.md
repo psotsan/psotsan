@@ -1,16 +1,15 @@
-## Hi there 👋
+![LFCS](https://img.shields.io/badge/LFCS-Certified-blue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# Pedro Sotorrío
+**Certified Linux System Administrator (LFCS) | Field Service Engineer**
 
-<!--
-**psotsan/psotsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineer with 7+ years resolving critical incidents in lab and hospital environments. Expanding expertise into SysAdmin/DevOps with focus on automation and reliability.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Concurrent Log Pipeline (Go)](https://github.com/psotsan/go-concurrent-log-pipeline/)** - *Concurrent log parser CLI with worker pool*
+- **[Benchmarked CSV Aggregator (Go)](https://github.com/psotsan/go-benchmarked-csv-aggregator)** - *CLI that aggregates CSV data with tests, benchmarks, and line limits*
+- **[Metrics Validator (Go)](https://github.com/psotsan/go-metrics-validator)** - *validates metrics using table‑driven tests*
+- **[Backup System with Validation (Bash)](https://github.com/psotsan/backup-automation)** - *Scheduled automated backups*
+
