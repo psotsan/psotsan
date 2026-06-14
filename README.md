@@ -7,9 +7,7 @@
 Industrial Engineer with 7+ years resolving critical incidents in lab and hospital environments. Expanding expertise into SysAdmin/DevOps with focus on automation and reliability.
 
 ## Projects
-
+- **[Portfolio Webapp Deployment](https://github.com/psotsan/portfolio-deployment/)** - *Portfolio webapp deployment documentation*
 - **[Concurrent Log Pipeline (Go)](https://github.com/psotsan/go-concurrent-log-pipeline/)** - *Concurrent log parser CLI with worker pool*
-- **[Benchmarked CSV Aggregator (Go)](https://github.com/psotsan/go-benchmarked-csv-aggregator)** - *CLI that aggregates CSV data with tests, benchmarks, and line limits*
-- **[Metrics Validator (Go)](https://github.com/psotsan/go-metrics-validator)** - *validates metrics using table‑driven tests*
 - **[Backup System with Validation (Bash)](https://github.com/psotsan/backup-automation)** - *Scheduled automated backups*
 
