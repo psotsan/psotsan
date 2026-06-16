@@ -1,7 +1,7 @@
 ![LFCS](https://img.shields.io/badge/LFCS-Certified-blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 # Pedro Sotorrío
 **Certified Linux System Administrator (LFCS) | Field Service Engineer**
 
